@@ -1,0 +1,13 @@
+{
+  "name": "delicious-scrapper",
+  "version": "1.0.0",
+  "description": "Script to export your bookmark from delicious.com",
+  "main": "scrape.js",
+  "author": "Reynard Hilman",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "sleep": "^5.0.0"
+  }
+}
